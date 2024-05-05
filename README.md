@@ -36,11 +36,11 @@ Install Tkinter (Python 2.x): If you're using Python 2.x, tkinter is known as Tk
 
 **Code Structure**
 
-- main.py:
+**main.py:**
  * Initializes the game.
  * Imports the interface functions.
 
-interface.py:
+**interface.py:**
  - Defines the Tkinter GUI elements (labels, buttons, entry fields).
  - Contains functions for:
  - Generating random numbers (generate_random_number)
