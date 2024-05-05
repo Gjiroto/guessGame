@@ -1,4 +1,4 @@
-**Guessing Game**
+## **Guessing Game**
 
 A simple but fun number guessing game built with Python and Tkinter.
 
